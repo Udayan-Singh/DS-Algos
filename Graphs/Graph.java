@@ -5,7 +5,6 @@ import java.util.ArrayList;
 public class Graph {
     public static void main(String[] args) {
         int n = 3;
-        int m = 3;
 
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
         for (int i = 0; i < n+1; i++) {
