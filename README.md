@@ -12,4 +12,4 @@ Some of the major areas of Data Structures I have covered are:
 7. Binary Trees
 
 
-Each file contains the name of the question I solved.
+Each file contains the name of the question I solved. All the questions have been solved in JAVA.
